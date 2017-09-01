@@ -1,5 +1,7 @@
 package beginner;
-
+/**
+ * Ainda nao aceito no Uri
+ */
 import java.util.Scanner;
 
 public class Uri1037 {

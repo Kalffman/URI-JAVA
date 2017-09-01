@@ -1,5 +1,7 @@
 package beginner;
-
+/**
+ * Ainda nao aceito no Uri
+ */
 import java.util.Scanner;
 
 public class Uri1021 {
@@ -23,11 +25,19 @@ public class Uri1021 {
             }
         }
         System.out.printf("NOTAS:\n");
-        for (int i = 0 ; i < 6 ; i++)
-            System.out.printf("%d nota(s) de R$ %.2f\n",v[i],V[i]);
+        System.out.printf("%d nota(s) de R$ 100.00\n",v[0]);
+        System.out.printf("%d nota(s) de R$ 50.00\n",v[1]);
+        System.out.printf("%d nota(s) de R$ 20.00\n",v[2]);
+        System.out.printf("%d nota(s) de R$ 10.00\n",v[3]);
+        System.out.printf("%d nota(s) de R$ 5.00\n",v[4]);
+        System.out.printf("%d nota(s) de R$ 2.00\n",v[5]);
         System.out.printf("MOEDAS:\n");
-        for (int i = 6 ; i < 12 ; i++)
-            System.out.printf("%d moedas(s) de R$ %.2f\n",v[i],V[i]);
+        System.out.printf("%d moedas(s) de R$ 1.00\n",v[6]);
+        System.out.printf("%d moedas(s) de R$ 0.50\n",v[7]);
+        System.out.printf("%d moedas(s) de R$ 0.25\n",v[8]);
+        System.out.printf("%d moedas(s) de R$ 0.10\n",v[9]);
+        System.out.printf("%d moedas(s) de R$ 0.05\n",v[10]);
+        System.out.printf("%d moedas(s) de R$ 0.01\n",v[11]);
 
     }
 }
