@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24e55c1e-8331-4592-9b10-d6a0363e26dc" name="Default" comment="Primeira correção dos algoritmos">
+    <list default="true" id="24e55c1e-8331-4592-9b10-d6a0363e26dc" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/beginner/Uri1021.java" afterPath="$PROJECT_DIR$/src/beginner/Uri1021.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/beginner/Uri1037.java" afterPath="$PROJECT_DIR$/src/beginner/Uri1037.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,7 +17,7 @@
       <file leaf-file-name="Uri1037.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/beginner/Uri1037.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
+            <state relative-caret-position="-68">
               <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
@@ -345,12 +343,20 @@
       <workItem from="1504143645436" duration="703000" />
       <workItem from="1504147563193" duration="669000" />
       <workItem from="1504199379953" duration="6541000" />
-      <workItem from="1504224883440" duration="9485000" />
+      <workItem from="1504224883440" duration="9593000" />
     </task>
+    <task id="LOCAL-00001" summary="Primeira correção dos algoritmos">
+      <created>1504236995942</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1504236995942</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17398000" />
+    <option name="totallyTimeSpent" value="17506000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -574,7 +580,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/beginner/Uri1037.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
+        <state relative-caret-position="-68">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
